@@ -1,0 +1,13 @@
+My aim is to build a pipeline which must be deployed using streamlit, which has to do following tasks:
+
+Inputs from the user are    : a. Dataset.
+					b. Specify 'Regression' or 'Classification' Task. 
+					c. Preprocessing file (.pyfile).
+					d. Specify the target variable.
+					e. Specify the test size.
+					f. Specify the ML model to be trained using the given data set.	
+					g. Specify the evaluation metric to be used for evaluation of the model.
+
+
+Preprocessing file must include data cleaning, feature selection, feature scaling, etc.
+
